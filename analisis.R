@@ -1,4 +1,3 @@
-#Prueba
 
 ##############################################################################
 # CBIT200 PROGRAMACIÓN Y ANÁLISIS DE DATOS AMBIENTALES MEDIANTE SOFTWARE LIBRE
