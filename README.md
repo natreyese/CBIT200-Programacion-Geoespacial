@@ -1,2 +1,2 @@
-# cbit200
-Repositorio relacionado al Curso CBIT200 2023
+# CBIT200 Programacion Geoespacial
+Repositorio relacionado al Curso CBIT200 Programacion Geoespacial 2023
